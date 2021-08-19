@@ -1,0 +1,244 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all font-family="Arial" />
+      <mj-text align="center" color="#555" />
+      <mj-section padding="0" background-color="#fff" />
+    </mj-attributes>
+    <mj-style>
+      @media all and (max-width: 480px) {
+      	.m-column > table > tbody > tr > td {
+      		padding: 0 18px 0 18px !important;
+      	}
+      	.m-button-columns > table > tbody > tr > td {
+      		padding: 0 20px 15px 20px !important;
+      	}
+
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#B9D3E3">
+    <mj-wrapper padding-top="50px">
+    <!-- Header Logo -->
+    <mj-section background-color="#E3E3E3" border-radius="8px 8px 0 0">
+      <mj-column>
+        <mj-text align="left" padding-top="0" padding-bottom="0">
+          <span><a href="https://www.example.com"><img src="https://i.ibb.co/yy8dshZ/WIN22-Windows11-logo-horiz-blue-rgb.png" alt="Windows Logo" width="120px" style="border:0;vertical-align:middle;" /></a></span>
+          <span><a href="https://www.example.com"><img src="https://i.ibb.co/2PqpNGS/HP-Blue-RGB.png" alt="HP logo" width="30px" style="border:0;vertical-align:middle;" /></a></span>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Hero Section -->
+    <mj-section css-class="bg-section" background-url="https://i.ibb.co/8xHxQv3/top-banner-2.png" background-repeat="no-repeat" background-size="cover" padding="20px 0 40px 0">
+      <mj-group>
+        <mj-column width="30%">
+          <mj-text> &nbsp;</mj-text>
+        </mj-column>
+        <mj-column width="70%">
+          <mj-text align="left" color="#000000" font-size="30px" line-height="35px" font-weight="500" padding-left="20px" padding-right="0px"> Windows 11: Episode 1 </mj-text>
+          <mj-text align="left" color="#000000" font-size="16px" line-height="27px" padding-top="0" padding-left="20px" padding-right="0px"> Introducing Windows 11. A new Windows experience,
+bringing you closer to the people and things you love.</mj-text>
+          <mj-text align="right" color="#0075D4" font-size="15px" font-style="italic" padding-top="0"> <a href="https://www.hp.com/us-en/software/microsoft-windows-11.html" style="color:#0075D4;font-size:#15px;">#HPisWindows11Ready</a> </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- Welcome Series Text -->
+    <mj-section background-color="#E3E3E3" padding="10px 0">
+      <mj-column>
+        <mj-text color="#0075D4" font-size="20px" line-height="24px" font-weight="500"> Welcome to this series! </mj-text>
+        <mj-text color="#232323" font-size="15.6px" line-height="22px" padding-top="0"> The countdown to Windows 11 begins today! For the next several weeks this series will bring you everything you need to know about the upcoming Windows 11 release. We’ll provide all the insights you need to help customers make a seamless transition to the most adaptive and powerful OS ever released! </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- New World New Windows Section  -->
+    <mj-section background-color="#ffffff" padding="30px 0 20px">
+      <mj-column width="96%">
+        <mj-text align="left" color="#000000" font-size="26px" line-height="32px" font-weight="500"> A new world needs a new Windows. </mj-text>
+        <mj-text align="left" color="#0075D4" font-size="15.6px" line-height="22px">
+          Our connection to the physical world is now in great part digital. Life as we
+know it is a hybrid. The Windows PC has become a connector, an entertainer,
+an educator, and a liberator. The new Windows 11 is built to enhance and
+streamline how people make connections, work, play, and create.
+        </mj-text>
+        <mj-image src="https://i.ibb.co/s1Ywwcj/MSFT-OEM-windows11-email-ep1-content-opt-2-2.png" alt="Video" href="https://www.youtube.com/watch?v=Uh9643c2P6k" width="450px" padding-top="25px"></mj-image>
+        <mj-text color="#000000" font-size="15.6px" line-height="22px">
+          Introducing Windows 11. A new Windows experience, bringing <br /> you closer to the people and things you love.
+        </mj-text>
+        <mj-text>
+          <hr style="border:none;height:1px;background-color:#E0E1E2;" />
+        </mj-text>
+        <mj-text align="left" color="#000000" font-size="15.6px" line-height="22px">
+          Here are some key features and highlights that will get consumers excited
+to buy a new HP PC:
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- First two column section -->
+    <mj-section background-color="#ffffff">
+      <mj-column width="15%">
+        <mj-image src="https://i.ibb.co/DQ1ddYX/light-icon-1.png" alt="lorem ipsum" width="35px"></mj-image>
+      </mj-column>
+      <mj-column width="85%" css-class="m-column">
+        <mj-text align="left" padding-left="8px" color="#0075D4" font-size="26px" line-height="32px" font-weight="500" padding-bottom="0"> Get a fresh perspective </mj-text>
+        <mj-text align="left" padding-left="8px" color="#000000" font-size="15.6px" line-height="22px">
+          Windows 11 provides a calm and creative space where you can
+          pursue your passions through a fresh experience. From a
+          rejuvenated Start menu to new ways to connect to your favorite
+          people, news, games, and content—Windows 11 is the place to
+          think, express, and create in a natural way.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Second two column section -->
+    <mj-section background-color="#ffffff" padding-top="10px">
+      <mj-column width="15%">
+        <mj-image src="https://i.ibb.co/GThz9PZ/light-icon-2.png" alt="lorem ipsum" width="35px"></mj-image>
+      </mj-column>
+      <mj-column width="85%" css-class="m-column">
+        <mj-text align="left" padding-left="8px" color="#0075D4" font-size="26px" line-height="32px" font-weight="500" padding-bottom="0"> Maximize your productivity </mj-text>
+        <mj-text align="left" padding-left="8px" color="#000000" font-size="15.6px" line-height="22px">
+          Access all the apps you need and multi-task with ease with tools like
+          Snap layouts, Desktops, and a new more-intuitive redocking
+          experience.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Third two column section -->
+    <mj-section background-color="#ffffff" padding-top="10px">
+      <mj-column width="15%">
+        <mj-image src="https://i.ibb.co/jGrqGpY/light-icon-3.png" alt="lorem ipsum" width="35px"></mj-image>
+      </mj-column>
+      <mj-column width="85%" css-class="m-column">
+        <mj-text align="left" padding-left="8px" color="#0075D4" font-size="26px" line-height="32px" font-weight="500" padding-bottom="0">
+          New ways to connect
+        </mj-text>
+        <mj-text align="left" padding-left="8px" color="#000000" font-size="15.6px" line-height="22px">
+          Connect instantly to the people you care about right from your
+          desktop with Microsoft Teams. Call or chat for free—no matter what
+          device they’re on.<sup>1</sup>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Fourth two column section -->
+    <mj-section background-color="#ffffff" padding-top="10px">
+      <mj-column width="15%">
+        <mj-image src="https://i.ibb.co/4Pxs940/light-icon-4.png" alt="lorem ipsum" width="35px"></mj-image>
+      </mj-column>
+      <mj-column width="85%" css-class="m-column">
+        <mj-text align="left" padding-left="8px" color="#0075D4" font-size="26px" line-height="32px" font-weight="500" padding-bottom="0">Your content, curated by you</mj-text>
+        <mj-text align="left" padding-left="8px" color="#000000" font-size="15.6px" line-height="22px">
+          With Microsoft Edge and a multitude of Widgets you can choose
+          from, you can quickly stay up to date with the news, information,
+          and entertainment that matters most to you.<sup>2</sup> Easily find the apps
+          you need and the shows you love to watch in the new Microsoft
+          Store.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Fifth two column section -->
+    <mj-section background-color="#ffffff" padding-top="10px">
+      <mj-column width="15%">
+        <mj-image src="https://i.ibb.co/PgLvZ5s/light-icon-5.png" alt="lorem ipsum" width="35px"></mj-image>
+      </mj-column>
+      <mj-column width="85%" css-class="m-column">
+        <mj-text align="left" padding-left="8px" color="#0075D4" font-size="26px" line-height="32px" font-weight="500" padding-bottom="0">Playtime. Anytime.</mj-text>
+        <mj-text align="left" padding-left="8px" color="#000000" font-size="15.6px" line-height="22px">
+          Windows 11 takes gaming to a whole new level with graphic
+          capabilities that rival reality.<sup>3</sup>
+          Discover your next favorite game with
+          Xbox Game Pass, giving you access to over 100 high-quality games
+          (membership sold separately).<sup>4</sup>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Horizontal Line -->
+    <mj-section background-color="#ffffff" padding-top="10px">
+      <mj-column>
+        <mj-text>
+          <hr style="border:none;height:1px;background-color:#E0E1E2;" />
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Two Button Column Section -->
+    <mj-section background-color="#ffffff" padding-bottom="30px">
+      <mj-column css-class="m-button-columns">
+        <mj-text color="#000000" font-size="15.6px" line-height="22px" padding="10px 0"> Windows 11 full<br /> announcement</mj-text>
+        <mj-button background-color="#0278D4" inner-padding="10px 40px" padding="10px 0" font-size="15.6px" href="https://www.youtube.com/watch?v=q5egaM2hibs"> Watch the event</mj-button>
+      </mj-column>
+      <mj-column padding-right="20px" css-class="m-button-columns">
+        <mj-text color="#000000" font-size="15.6px" line-height="22px"> Windows 11 in<br /> 60-seconds</mj-text>
+        <mj-button background-color="#0278D4" inner-padding="10px 40px" padding="10px 0" font-size="15.6px" href="https://www.youtube.com/watch?v=E1kQVJBqolY"> Watch the recap </mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- Whats next headline -->
+    <mj-section background-color="#E3E3E3" padding-top="25px">
+      <mj-column>
+        <mj-text align="left" color="#0075D4" font-size="20px" line-height="24px" font-weight="500"> What do I need to do to get ready for Windows 11? </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <!-- Whats next section (3 Columns)-->
+    </mj-section>
+    <mj-section background-color="#E3E3E3" padding-bottom="20px">
+      <mj-column>
+        <mj-text align="left" color="#000000" font-size="13.6px" line-height="19px">
+          Log into Microsoft Expert Zone to get the latest  training updates on Windows 11.
+        </mj-text>
+        <mj-text align="left" font-size="13.6px" line-height="19px" color="#009EFA" padding-top="0">
+          <a style="color:#087BD4;font-size:13.6px" href="https://expertzone.microsoft.com/">Learn More &gt;</a>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text align="left" color="#000000" font-size="13.6px" line-height="19px">
+          Sign up now for the Windows Insider Program to see Windows 11 first—and test it out.
+        </mj-text>
+        <mj-text align="left" font-size="13.6px" line-height="19px" color="#009EFA" padding-top="0">
+          <a style="color:#087BD4;font-size:13.6px" href="https://insider.windows.com/en-us/">Learn More &gt;</a>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text align="left" color="#000000" font-size="13.6px" line-height="19px">
+          Use the PC Health Check app to check for Windows 11 compatability and learn about minimum system requirements.
+        </mj-text>
+        <mj-text align="left" font-size="12.6px" line-height="19px" color="#087BD4" padding-top="0">
+          <a style="color:#087BD4;font-size:13.6px" href="https://blogs.windows.com/windows-insider/2021/06/28/update-on-windows-11-minimum-system-requirements/">Learn More &gt;</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Coming next section -->
+    <mj-section background-color="#ffffff" padding="30px 0" border-radius="0 0 8px 8px">
+      <mj-column>
+        <mj-text align="left" color="#000000" font-size="18px" line-height="24px"> Coming next week: Upgrading to Windows 11 </mj-text>
+        <mj-text align="left" color="#000000" font-size="13px" line-height="19px" padding-top="5px">
+          Everyone has questions about how to upgrade and compatibility. We'll show you how to answer these questions and will give you the tools to find the best upgrade solutions for your customers.
+        </mj-text>
+        <mj-text align="left" color="#000000" font-size="13px" line-height="19px" padding-top="0">
+          So, watch your inbox and prepare for Windows 11!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Footer section-->
+    <mj-section background-color="#B9D3E3" padding="20px 0">
+      <mj-column width="95%">
+        <mj-text align="left" color="#000000" font-size="10px" line-height="16px">
+          <ol style="text-align:left;padding-left:8px;">
+            <li>Certain features require specific hardware, see <a href="https://www.microsoft.com/windows/windows-11-specifications" style="color:#087BD4">https://www.microsoft.com/windows/windows-11-specifications</a>. Internet access required, service fees may apply."</li>
+            <li>Internet access required. Service fees may apply.</li>
+            <li>Certain features require specific hardware, see <a href="https://www.microsoft.com/windows/windows-11-specifications" style="color:#087BD4;">https://www.microsoft.com/windows/windows-11-specifications.</a></li>
+            <li>For full details visit <a href="https://www.xbox.com/" style="color:#087BD4;">https://www.xbox.com/</a>. Use your active Xbox Game Pass for PC membership to play PC games on Windows 10 PC (excludes Windows 10 in S mode and on ARM devices). App download, Windows update(s), and storage required. System requirements vary by game; performance scales with higher end systems. Game titles, number, features, and availability vary over time, by region and platform. Learn more at <a href="https://www.xbox.com/regions" style="color:#087BD4">https://www.xbox.com/regions</a>. For recurring memberships, membership automatically continues to be charged at the then-current regular price (subject to change; plus applicable taxes) unless cancelled. Cancel at <a href="https://account.microsoft.com/services" style="color:#087BD4;">account.microsoft.com/services</a>. Notice before purchase of add-ons, DLC, consumables, virtual currency, or subscriptions (sold separately): If your membership terminates or a game is removed from the catalog, you must reactivate your membership or buy the game separately to continue using these items. Requires download(s) (significant storage, broadband, and ISP fees apply) and Microsoft account. May require additional hardware and subscriptions. Age restrictions apply. Xbox Game Pass discounts are based on Microsoft Store price and are not combinable with other offers and are not redeemable for cash. Discount offers exclude titles within 30 days of launch and are not available with select titles. EA Play subject to terms: <a href="https://www.ea.com/ea-play/terms" style="color:#087BD4;">https://www.ea.com/ea-play/terms</a>. Maximum 36 months of redeemed Xbox Game Pass per account at a time. Service, features, and requirements may change or be retired. Subject to the Microsoft Services Agreement.</li>
+          </ol>
+        </mj-text>
+        <mj-text align="left" padding-top="0" padding-bottom="0">
+          <span><a href="https://www.example.com"><img src="https://i.ibb.co/NpjrbbW/Microsoft-logo-rgb-c-gray.png.png" alt="Windows Logo" width="110px" style="border:0;vertical-align:middle;" /></a></span>
+          <span><a href="https://www.example.com"><img src="https://i.ibb.co/2PqpNGS/HP-Blue-RGB.png" alt="HP logo" width="30px" style="border:0;vertical-align:middle;" /></a></span>
+        </mj-text>
+        <mj-text padding="20px 40px">
+          <p style="margin:0;text-align:left;padding:5px 0;"><a href="https://privacy.microsoft.com/en-us/privacystatement" target="_blank" style="color:#087BD4;font-size:12px;">Privacy Statement</a></p>
+          <p style="color:#000000;margin:0;text-align:left;font-size:12px;padding:5px 0;">Microsoft Company</p>
+          <p style="color:#000000;margin:0;text-align:left;font-size:12px;padding:5px 0;">One Microsoft Way</p>
+          <p style="color:#000000;margin:0;text-align:left;font-size:12px;padding:5px 0;">Redmond, WA 981052</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>
